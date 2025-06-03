@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/darwin2802/db_labs_io-34/blob/d3ba5d57619ef23c64a265e20112bccbbd89d59d/assets/lab6/all_request.jpg" width="1800" />
+<img src="https://raw.githubusercontent.com/darwin2802/db_labs_io-34/d3ba5d57619ef23c64a265e20112bccbbd89d59d/assets/lab6/all_request.jpg" width="1800" />
 
 </div>
 
